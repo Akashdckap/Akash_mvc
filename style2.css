@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+}
+table{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+th{
+    border: 1px;
+    border-style: solid;
+    font-size: 20px;
+    width: 200px;
+    text-align: center;
+    background-color: aqua;
+    gap: 30px;
+}
+td{
+    font-size: 25px;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
+input{
+    height: 50px;
+}
+select{
+    height: 50px;
+    font-size: large;
+}
+button{
+    height: 50px;
+    width: 100px;
+    font-size: large;
+    background-color: aqua;
+    border-radius: 12px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+form{
+    border:8px solid;
+    width: 420px;
+    margin-left: 425px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.file{
+    padding-top: 15px;
+}
+.entries{
+    text-align: center;
+}
